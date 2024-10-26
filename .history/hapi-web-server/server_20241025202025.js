@@ -1,0 +1,1 @@
+console.log('Kita akan mempelajari membuat web server dengan hapi');
